@@ -1,0 +1,1 @@
+Esse projeto foi criado para testar a API https://omdbapi.com/ que é uma API gratuíta de consultar filmes, após consultar é salvo os resultados em um arquivo Json.<br> Caso queira testar é possível gerar sua própria api key no link https://omdbapi.com/apikey.aspx (Demora um pouco para chegar o email)
